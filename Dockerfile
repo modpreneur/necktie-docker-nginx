@@ -19,4 +19,4 @@ EXPOSE 80
 
 WORKDIR /var/app
 
-RUN echo "modpreneur/necktie-nginx:0.2" >> /home/versions
+RUN echo "modpreneur/necktie-nginx:0.3" >> /home/versions
